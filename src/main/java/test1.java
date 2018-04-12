@@ -9,6 +9,7 @@ public class test1 {
           System.out.print("hellogit");
           System.out.println("hellogit2");
           System.out.println("hellogit3");//修改
+          System.out.println("lll");//xi
       }
 
 }
